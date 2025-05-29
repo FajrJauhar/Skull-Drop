@@ -1,6 +1,6 @@
 #Skull-Drop
 <p align="center">
-  <img src="https://github.com/FajrJauhar/Skull-Drop/blob/main/skull.png" height="90px" >
+  <img src="https://github.com/FajrJauhar/Skull-Drop/blob/main/skull.png" height="300px" >
 </p>
 
 ##  Skulldrop — Remote Keystroke Exfiltration Tool
