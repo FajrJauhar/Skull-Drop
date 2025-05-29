@@ -43,7 +43,7 @@
         ⤷ Log split into chunks
         ⤷ Data sent via TCP sockets
 
-             ↓
+            
 
    [Linux C2 Server]
         ⤷ Listens on port 8080
