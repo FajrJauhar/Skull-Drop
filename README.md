@@ -4,7 +4,7 @@
 </p>
 
 ##  Skulldrop — Remote Keystroke Exfiltration Tool
-
+>Second Version of PROJECT KEYSTREAMER
 > Silent. Chunked. Controlled.  
 > C++ Keylogger with socket-based C2 communication and log exfiltration via file chunking.  
 > Designed for research and educational use only.
